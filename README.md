@@ -18,4 +18,4 @@ An interactive Excel dashboard analyzing English Premier League team and player 
 ![Dashboard Preview](Dashboard%202.png).
 
 ## Dashboard Preview
-![Dashboard Preview](Dashboard%2.png)
+![Dashboard Preview](Dashboard%201.png)
