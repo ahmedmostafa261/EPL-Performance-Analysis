@@ -15,7 +15,7 @@ An interactive Excel dashboard analyzing English Premier League team and player 
 - Team performance trends across the season
 
 ## Dashboard Preview
-![Dashboard Preview](اDashboard%1.png)
+![Dashboard Preview](Dashboard2.png).
 
 ## Dashboard Preview
 ![Dashboard Preview](Dashboard%2.png)
