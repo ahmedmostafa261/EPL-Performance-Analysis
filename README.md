@@ -1,2 +1,18 @@
-# EPL-Performance-Analysis
-Interactive Excel dashboard analyzing English Premier League performance
+
+# English Premier League Performance Analysis
+
+An interactive Excel dashboard analyzing English Premier League team and player performance using structured KPIs.
+
+## Tools Used
+- Microsoft Excel (Advanced)
+- Power Query
+- Data Modeling
+- DAX Measures
+
+## Key Insights
+- Home vs. away performance effectiveness
+- Individual player contribution metrics
+- Team performance trends across the season
+
+## Dashboard Preview
+![Dashboard Preview](اسم_الصورة_هنا.png)
